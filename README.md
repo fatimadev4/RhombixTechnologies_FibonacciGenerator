@@ -26,6 +26,7 @@ A generator produces values one at a time instead of storing the entire sequence
 4. Enter the number of terms when prompted
 
 **Project Structure**
+
 fibonaci_generator/
 
 * main.py
