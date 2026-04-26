@@ -1,4 +1,5 @@
 **Project Overview**
+
 This project is a simple Python implementation of a Fibonacci sequence generator using generator functions (yield). It demonstrates how sequences can be generated efficiently without storing all values in memory.
 
 **Features**
